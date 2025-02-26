@@ -42,7 +42,7 @@ print(rt_iot2022.variables)
 
 ```
 --------------------------------------------------------------------------------------------------------------------
-**XGBoost** and **LightGBM**, are three of the most popular gradient boosting frameworks used also by a large number of Kagglers on competition. Each has its own advantages depending on the use case:
+**XGBoost** and **LightGBM**, are the most popular gradient boosting frameworks used also by a large number of Kagglers on competition. Each has its own advantages depending on the use case:
 
 ### **1. XGBoost (Extreme Gradient Boosting)**
 **Advantages:**
