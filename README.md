@@ -15,7 +15,7 @@ These are the questions I've gone through on my notebooks:
 8. **Data Preprocessing with ColumnTransformer and using Train Test Split.** <br/>
 9. **Modeling with Stratified.** <br/>
 
-**Citation: RT-IoT2022 [Dataset](https://archive.ics.uci.edu/dataset/942/rt-iot2022). (2020). UCI Machine Learning Repository.** <br/>
+**Citation: [RT-IoT2022](https://archive.ics.uci.edu/dataset/942/rt-iot2022). (2024). UCI Machine Learning Repository.** <br/>
 --------------------------------------------------------------------------------------------------------------------
 
 
@@ -45,7 +45,7 @@ print(rt_iot2022.variables)
 **XGBoost**, **LightGBM**, and **CatBoost** are three of the most popular gradient boosting frameworks used also by a large number of Kagglers on competition. Each has its own advantages depending on the use case:
 
 ### **1. XGBoost (Extreme Gradient Boosting)**
-✅ **Advantages:**
+**Advantages:**
 - **Highly Optimized**: Implements optimized gradient boosting with parallel tree boosting.
 - **Regularization (L1 & L2)**: Reduces overfitting through built-in L1 (Lasso) and L2 (Ridge) regularization.
 - **Handling Missing Values**: Automatically learns how to deal with missing values.
